@@ -1,4 +1,4 @@
-<map version="0.9.0">
+<map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node COLOR="#bb7617" CREATED="1446211345039" ID="ID_1107325576" MODIFIED="1446217391150" TEXT="Microfair Projekt 01">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -24,7 +24,7 @@
   </head>
   <body>
     <p>
-      W&#228;chter von einem oder
+      W&#xe4;chter von einem oder
     </p>
     <p>
       mehreren Spielern gemeinsam besiegt
@@ -73,7 +73,7 @@
 <node CREATED="1446216284435" ID="ID_253509677" MODIFIED="1446216294849" TEXT="Beliebtheit von Dungeon-Spielen"/>
 <node CREATED="1446216295438" ID="ID_485881430" MODIFIED="1446216316182" TEXT="Sammelkartenspiel-Elemente"/>
 </node>
-<node CREATED="1446217115890" ID="ID_826290293" MODIFIED="1446217122265" POSITION="right" TEXT="Langzeitmotivation">
+<node CREATED="1446217115890" ID="ID_826290293" MODIFIED="1446326177604" POSITION="right" TEXT="Langzeitmotivation">
 <node CREATED="1446217123977" ID="ID_1093982649" MODIFIED="1446217139857" TEXT="sich ver&#xe4;nderndes Spielfeld"/>
 <node CREATED="1446217141632" ID="ID_1437856260" MODIFIED="1446217153299" TEXT="verschieden starke Gegner"/>
 <node CREATED="1446217153573" ID="ID_959540846" MODIFIED="1446217186116" TEXT="verschiedene Strategien m&#xf6;glich (PvP/PvE)"/>
@@ -85,7 +85,7 @@
 <node CREATED="1446215881281" ID="ID_1511676053" MODIFIED="1446215933251" TEXT="Studenten"/>
 <node CREATED="1446215933907" ID="ID_1703640687" MODIFIED="1446216050976" TEXT="Familien mit jugendlichen Kindern"/>
 </node>
-<node CREATED="1446211423310" HGAP="-28" ID="ID_232479973" MODIFIED="1446217060492" POSITION="left" TEXT="Interface" VSHIFT="-76">
+<node CREATED="1446211423310" HGAP="164" ID="ID_232479973" MODIFIED="1446326192378" POSITION="left" TEXT="Interface" VSHIFT="-221">
 <node CREATED="1446213736805" ID="ID_1436322924" MODIFIED="1446217313969" TEXT="7x7 oder 9x9 Feldkarten">
 <node CREATED="1446214091294" ID="ID_453871160" MODIFIED="1446214099088" TEXT="Monster"/>
 <node CREATED="1446214099564" ID="ID_10459574" MODIFIED="1446214102002" TEXT="Falle"/>
