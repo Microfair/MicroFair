@@ -1,0 +1,58 @@
+Microfair – Dokument
+
+Bemerkung:
+-Formatierung ist nicht fertig
+-inhaltlich möchte ich gerne wissen was fehlt (denn ich sehe den Wald vor lauter Bäumen nicht mehr ^^)
+-Wenn irgendwas nicht gefällt, bitte Bescheid sagen
+-Muss noch die Spieleanleitung mehr stichpunktartiger gestalten
+
+Powerpoint: Formatierung ebenfalls keinesfalls fertig! Vorschläge und Anmerkungen zu dem was da steht sind gerne gesehen!
+--------------------------------------------------------------
+
+Microfair ist ein Team aus 5 enthusiastischen Spielentwicklern. Jedes Teammitglied hat Aufgaben, die ihn einzigartig machen und die anderen passend ergänzen. 
+
+Christina Klaus – Design von: Setting, Artwork. Gestaltung der Spieleregeln und Story. Sie behält den Überblick über die Trends der Branche.
+Fabian Schocke – Design von: Karten und Spielbrett. Leading designer. Seine Artworks machen das Spiel zu einem einzigartigen Erlebnis
+Irina Hasanow – Gestaltung von Präsentation, Texten und Ausarbeitung des Settings. All-Rounder mit dem kühlen Kopf. Erkennt eine gute Idee auf den ersten Blick
+Michael Kuwilsky – Design von: Karten und Spielbrett. Seine ausgefallenen Ideen und klassische Techniken erweitern Fabians Designs und machen sie vollständig.
+Ronja Böhringer – Spielemechanik, Spielverständnis. Sie versteht ganz genau was ein Spiel ist. Ausarbeitung der Spieleregeln. Sie weiß genau was möglich ist – und kann dies umsetzen.
+
+Unser Spiel in 3 Sätzen:
+
+Blubb ist ein fantastisches Spiel im Steampunk-Setting, in dem die Spieler eine einzigartige Kombination aus Karten- und Brettspiel erleben dürfen. In der Rolle eines Schatzjägers, der das verlassene Schloss XXXXXX erkundet, müssen sie sich durch eine Horde Wächter durchkämpfen  und Schätze sammeln– und sich am Ende dem Endgegner entgegenstellen. Ob sie dabei im Team spielen oder ihre eigene Reise antreten, bleibt jedem selbst überlassen.
+
+Das Steampunk-Setting lässt sich definieren durch:
+-Eine alternative Entwicklung unserer Welt, in der nicht Elektrizität die Hauptenergieform ist, sondern Dampf.
+-Steampunk – Designs lassen sich erkennen durch: Zahnräder, Dampfmaschinen, Metall und Mechanik.
+
+Story:
+Eine geheimnisvolle, schwebende Insel lockt Abenteuer mit unzäligen Schätzen an. Wo einst eine weit entwickelte, aber längst ausgestorbene Zivilisation erblühte, treiben sich nur noch die mechanischen Wächter herum, die die Ruinen und ihre Schätze beschützen. Sie werden von dem Boss angetrieben, der in den Tiefen der Ruinen lebt und darauf wartet, bis mutige Schatzjäger ihn finden. Bis zu vier Abenteurer machen sich auf den Weg, um seine Schätze an sich zu reißen. Doch der legendäre Wächter ist äußerst mächtig. Kannst du ihn besiegen?
+
+
+
+
+Spielregeln:
+
+Unser Spielfeld besteht aus 7x7 Feldkarten, die ähnlich wie bei Siedler am Anfang jeder Runde gemischt und zufällig in einem Quadrat angeordnet werden. Die Feldkarten liegen verdeckt und auf der Unterseite sind Schatzräume, Monsterräume und Fallenräume gekennzeichnet. Die Spieler
+bekommen außerdem jeder ein Deck aus etwa  5-7 Anfangskarten und einige Handkarten (die genaue Zahl steht noch nicht fest). Diese Karten brauchen sie später, um gegen die Monster zu kämpfen, die ihnen begegnen werden. Außerdem hat jeder Spieler einen eigenen Ablagestapel, auf den ausgespielte Karten kommen. Prinzipiell besteht ein Spielzug daraus, dass der Spieler, der an der Reihe ist, eine Karte vom großen Nachziehstapel in der Mitte des Spielfelds auf die aktuelle Hand nimmt und sich entscheidet, in welchen der angrenzenden Räume er gehen möchte. Beim Betreten des Raumes wird die Karte umgedreht und es können drei Dinge passieren: a) der Spieler trifft auf ein Monster, b) der Spieler aktiviert eine Falle oder c) es handelt sich um einen Schatzraum.
+
+Im Fall a) kommt es sofort zu einem Kampf. Wie viele Lebens- bzw. Angriffspunkte das Monster hat, ist auf der Karte beschrieben. Auch der Spieler hat Lebenspunkte sowie seine Handkarten, die unterschiedliche Angriffswerte zeigen. Das Monster zieht eine bestimmte Anzahl Karten (vermutlich 2-3) vom Nachziehstapel in der Mitte und hat entsprechende Angriffswerte. Nun ist es am Spieler, genügend Angriffskraft in Form von auszuspielenden Handkarten aufzubringen, um das Monster zu besiegen. Ausgespielte Handkarten wandern auf den dem Spieler eigenen Ablagestapel und sind damit für eine Weile aus dem Spiel, da dieser erst wieder untergemischt wird, wenn der Spieler in seinem eigenen Nachziehstapel, also seinem "Deck" nicht mehr genug Karten hat. Besiegt nun der
+Spieler das Monster, bekommt er als Belohnung eine zufällige Karte der Karten, die das Monster gegen ihn ausgespielt hat, welche unter das Spielerdeck gemischt wird. Verliert der Spieler, muss er eine bestimmte Anzahl Karten aus seinem Deck oder seiner Hand abgeben.
+
+Sollte b) eintreffen, erleidet der Spieler einen Malus für den nächsten Kampf (z.B. "Der Schaden aller deiner Karten ist im nächsten Kampf um 1 reduziert") oder es passiert etwas anderes, das in den Bereich Utility fällt (z.B. "Du wirst zum dir am nächsten stehenden Spieler teleportiert und musst diesen bekämpfen").
+
+Als dritte Möglichkeit haben wir c) den Schatzraum. Hier bekommt der Spieler eine bestimmte Anzahl an Karten vom Nachziehstapel als Schatz.
+
+Unsere Zielgruppe:
+Spieler: Ab 12 (Die Spielregeln werden einigen Kindern schwer fallen.)
+Steampunk – Fans (Steampunk hat eine große Fanbase. Filme, Bücher und Computergames werden oft mit Steampunk thematisiert. Es finden Steampunk-conventions statt. Es ist ein Spiel, das Steampunk-Fans durch die ausgefallenen Monsterdesigns und das Setting interessieren sollte.)
+Fantasy – Fans (Monster, Wächter, ein fliegendes Schloss… Themen, die bei Fantasy-fans sehr beliebt sind.)
+Studenten (Studenten spielen oft Brett – oder Kartenspiele. Spieleabende sind keine Seltenheit)
+Familien mit jugendlichen Kindern (während man die Jugendlichen kaum noch zu einem Familienspiel zwingen kann, wird unser Spiel bei ihnen anschlagen. Erste Umfragen bei Jugendlichen über 12 Jahre ergaben das Fazit: Das Spiel und die Designs sind „cool“.)
+
+Ähnliche Spiele:
+-Labyrinth der Meister
+-Das verrückte Labyrinth (kombiniert ebenfalls Karten- und Brettspiel)
+-Herr der Ringe – Brettspiel
+-Dragon Quest 
+-Munchkin
