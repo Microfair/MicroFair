@@ -1,0 +1,4 @@
+Name	hp	attack	comment	(with tabs inbetween)
+Enemy1	10hp	+2atk	standard enemy
+Enemy2	8hp	*2atk	high atk - low hp
+Enemy3	12hp	+0atk	a tank
