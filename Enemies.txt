@@ -1,4 +1,8 @@
-Name	hp	attack	comment	(with tabs inbetween)
-Enemy1	10hp	+2atk	standard enemy
+Name	hp	attack	comment	(with tabs inbetween) we'll need ~40 monsters
+Enemy1	10hp	+2atk	standard enemy, we need a few of them
 Enemy2	8hp	*2atk	high atk - low hp
 Enemy3	12hp	+0atk	a tank
+Krakzilla	11hp	+3 atk	one of the stronger monsters you'll meet
+Enemy5	8hp	+3 atk	high atk - low hp
+Enemy6	7hp	+2 atk	annoying little... tank? (attacks with atk>3 will deal 3 damage)
+Enemy7	10hp	+2 atk	a little weaker than average enemy
