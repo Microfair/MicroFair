@@ -1,0 +1,4 @@
+Name	stat1	stat2(if given)	comment(with tabs inbetween)
+dagger	2 atk	worst item ingame?
+vampire dagger	1atk	+5hp	deals almost no damage but has good heal
+smoke bomb	+4hp	you a invulnerable for 1 round	heals you and guarantees that you won't die after healing yourself
