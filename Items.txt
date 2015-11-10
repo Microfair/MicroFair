@@ -1,9 +1,12 @@
 Name	stat1	stat2(if given)	comment(with tabs inbetween)
-dagger	2 atk	worst item ingame?
 vampire dagger	1atk	+5hp	deals almost no damage but has good heal
 smoke bomb	+4hp	you a invulnerable for 1 round	heals you and guarantees that you won't die after healing yourself
 steam pistol	3atk	you throw a pistol at you enemy? not very effective at close range
 sword	4atk	a normal steam gear sword
 negator	-	next attack deals 10-itemAtk as damage
-poison	- next attack is 6 atk greater if it's <=3atk
-cog	1atk	you throw a cog at your enemy (ronja is not a fan of it)
+poison	-	next attack is 6 atk greater if it's <=3atk
+cog	1atk	you throw a cog at your enemy (ronja is not a fan of it)(worst item ingame)
+overheating trident	7atk	-7hp	burns the user upon using it, best used for finishing
+health potion	+6hp	heals
+vortex dagger	2atk	turn the cog your standing on by 90° in a direction of your choice, can be used out of combat
+amplifier	-	multiplies all stats of the next card you play by 2 (heal, atk, -hp)
