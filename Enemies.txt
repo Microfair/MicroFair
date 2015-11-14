@@ -6,3 +6,8 @@ Krakzilla	11hp	+3 atk	one of the stronger monsters you'll meet
 Enemy5	8hp	+3 atk	high atk - low hp
 Enemy6	7hp	+2 atk	annoying little... tank? (attacks with atk>3 will deal 3 damage)
 Enemy7	10hp	+2 atk	a little weaker than average enemy
+
+
+----Traps----
+	nah-teleport	teleportiert dich zum nähsten spieler wenn 2 spieler die gleiche entfernung haben darfst du dir aussuchen wohin du willst
+	
