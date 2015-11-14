@@ -5,11 +5,24 @@
 	
 2. Spielrunde
 	a. Spieler bewegt sich auf ein anliegendes feld (eines der 3 felder auf dem zahnrad oder 1 feld auf anliegendem zahnrad) (nicht in erster runde)
-	b. der spieler deckt die karte auf der er steht auf und zieht 2 karten von seinem nachziehstapel auf seine hand.
-	c. der spieler interagiert mit der karte die er aufgedeckt hat
+	
+	b.	1. ebene: wenn die karte verdeckt ist, deckt der spieler die karte auf der er steht auf und zieht 2 karten von seinem nachziehstapel auf seine hand.
+		2. ebene: wenn die karte offen ist, zieht der spieler 2 karten von seinem nachziehstapel auf seine hand.
+	
+	c.	wenn der spieler in zug b 2 karten gezogen hat interagiert er mit dem feld auf dem er steht:
 		Schatzkarte: der spieler zieht eine karte von den kampfkarten der jeweiligen ebene und fügt sie seiner hand hinzu
 		Falle: den spieler treffen alle auf der karte beschriebenen effekte
 		Gegner: Der spieler muss gegen den gegner kämpfen:
 			der spieler fängt an und spielt eine seiner handkarten aus woraufhin das monster eine karte vom globalen kartenstapel ausspielt - dieser fluss kann von bestimmten karten unterbrochen werden.
 			der kampf ist zu ende sobald entweder die karten des spielers zusammen mehr atk haben als die hp des gegners + seine heilung
 			oder die atk der karten des gegners + die boni die gegner ihren karten geben größer sind als die hp der Spieler (15 auf ebene 1 | 20 auf ebene 2) + die heilung des spielers
+			
+			Spieler gewinnt: eine der ausgespielten karten des monsters wird zufällig ausgewählt und von dem sieger auf die hand genommen.
+			Gegner gewinnt: der spieler gibt die hälfte seiner karten ab und wird zurück auf den punkt gesetzt auf dem er gestartet ist.
+			
+	d.	wenn sich auf diesem feld bereits ein spieler befindet dann können beide entscheiden ob sie gegeinander kämpfen wollen, wenn einer der beiden spieler dies will, wird gekämpft:
+		der spieler auf dessen feld gezogen wurde
+	
+	e.(nur 2. ebene)	decke die karte zu
+	
+	-> nächster spieler ist an der reihe
