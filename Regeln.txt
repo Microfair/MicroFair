@@ -1,2 +1,15 @@
 1: Aufbau
+	a. auf den zahnrädern des spielfelds werden schatz, fallen und gegnerkarten verdeckt und gemischt verteilt
+	b. die spielfiguren werden auf die startpunkte gesetzt
+	c. alle spieler bekommen 10 karten des stapels der ersten ebene. 5 davon werden zu ihrem nachzieh stapel, 5 werden handkarten
 	
+2. Spielrunde
+	a. Spieler bewegt sich auf ein anliegendes feld (eines der 3 felder auf dem zahnrad oder 1 feld auf anliegendem zahnrad) (nicht in erster runde)
+	b. der spieler deckt die karte auf der er steht auf und zieht 2 karten von seinem nachziehstapel auf seine hand.
+	c. der spieler interagiert mit der karte die er aufgedeckt hat
+		Schatzkarte: der spieler zieht eine karte von den kampfkarten der jeweiligen ebene und fügt sie seiner hand hinzu
+		Falle: den spieler treffen alle auf der karte beschriebenen effekte
+		Gegner: Der spieler muss gegen den gegner kämpfen:
+			der spieler fängt an und spielt eine seiner handkarten aus woraufhin das monster eine karte vom globalen kartenstapel ausspielt - dieser fluss kann von bestimmten karten unterbrochen werden.
+			der kampf ist zu ende sobald entweder die karten des spielers zusammen mehr atk haben als die hp des gegners + seine heilung
+			oder die atk der karten des gegners + die boni die gegner ihren karten geben größer sind als die hp der Spieler (15 auf ebene 1 | 20 auf ebene 2) + die heilung des spielers
