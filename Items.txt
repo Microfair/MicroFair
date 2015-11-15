@@ -10,3 +10,4 @@ overheating trident	7atk	-7hp	burns the user upon using it, best used for finish
 health potion	+6hp	heals
 vortex dagger	2atk	turn the cog your standing on by 90° in a direction of your choice, can be used out of combat
 amplifier	-	multiplies all stats of the next card you play by 2 (heal, atk, -hp)
+magical rod 3atk +3hp weak attack but heals the user

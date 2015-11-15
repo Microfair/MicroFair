@@ -1,0 +1,40 @@
+Wächter von Aevon
+Ziel des Spiels:  
+Übermutige Erkunder stürzen sich in ein Abenteuer der Superlative. Die verlassene Festung Aevon lockt mit Reichtum, Ruhm und den Geheimnissen einer längst verlorenen Zivilisation.  Doch der Hüter der Festung und seine Untertanen lassen keinen lebendig aus den alten Ruinen entwischen. Kannst du den mächtigen Hüter besiegen – alleine oder mithilfe von Freunden – um als Held gefeiert zu werden?
+Spieler: 1-4 Spieler
+
+Vorbereitung:
+Das vierteilige Spielbrett wird so zusammengesteckt, dass die Teile ein großes Zahnrad ergeben. Die 12 Zahnradelemente werden auf jeweils einen der dafür vorgesehenen Stifte aufgesetzt. Die Zahnräder sollen sich miteinander verzahnen, sodass beim Drehen sich jeweils eine Hälfte vom Spielbrett bewegt.
+Die Feldkarten werden gut gemischt. Auf jedes Zahnrad werden jeweils vier Karten platziert. Jeder Spieler sucht sich eine der vier Spielfiguren aus und platziert diese auf den Startfeldern.
+
+Spielverlauf:
+Jeder Spieler zieht 10 Karten des roten Stapels/des erste-Ebene-Stapels (müssen uns noch eine konkrete Bezeichnung dafür ausdenken. Vorschlag: Wir unterteilen sie in Farben). 5 davon sind der persönliche Nachziehstapel eines jeden Spielers, 5 Karten sind Handkarten. Der Rest ist der gemeinsame Nachziehstapel. Jeder Spieler hat am Anfang 15 LP. 
+Die Ebene des Spielfelds ist solange Ebene 1, bis der Endgegner erscheint.
+
+In der ersten Runde bewegt sich der Spieler, der dran ist, auf das nächste Feld vor ihm. In den folgenden Runden kann jeder Spieler auf jedes beliebige Feld gehen, das an sein momentanes Feld grenzt (auch wenn dieses Feld sich auf einem anderen Zahnrad befindet). Hat sich ein Spieler auf ein verdecktes Feld bewegt, das frei ist, wird die verdeckte Karte umgedreht. Beim Umdrehen einer Karte darf der Spieler 2 Karten von seinem Nachziehstapel ziehen.
+
+-Die umgedrehte Karte ist ein Schatz: Der Spieler zieht eine Karte von dem gemeinsamen Nachziehstapel.
+
+-Die umgedrehte Karte ist eine Falle: Den Spieler treffen die auf der Karte aufgeführten Effekte.
+
+-Die umgedrehte Karte ist ein Gegner: Jedes Monster hat einen LP-Wert(dafür muss noch der offizielle Name ausgedacht werden). Das Ziel des Spielers ist es, mithilfe seiner Handkarten die LP des Monsters auf 0 zu senken. Der Spieler darf jeweils nur eine Karte auf einmal spielen. Diese Karte kann ein Artefakt(Waffe) sein, das Schaden anrichtet oder ein Item, das die HP des Spielers auffüllt, ausspielen. 
+Wenn der Spieler seine Karte ausgespielt hat und die LP des Monsters nicht auf 0 abgesunken ist, ist das Monster dran. Das Monster zieht eine Karte aus dem gemeinsamen Nachziehstapel und spielt diese sofort aus. Das kann sowohl eine Waffe sein und dem Spieler Schaden anrichten, als auch ein Item sein, das die Gesundheit des Monsters auffüllt. Gewonnen hat derjenige, der die LP des Gegners zuerst auf 0 gesenkt hat.
+Wenn der Spieler den Kampf gewonnen hat, darf er sich eine zufällige Karte des Monsters aussuchen und diese auf seine Hand nehmen. Die besiegte Monsterkarte bleibt offen liegen.
+Wenn der Spieler den Kampf verloren hat, muss er die Hälfte seiner Handkarten abwerfen (dieser Schritt war mir ja noch nicht ganz klar und muss besprochen werden)
+
+-Wenn auf diesem Feld ein Mitspieler steht: Es wird entschieden, ob ein Kampf erwünscht ist. Wünscht sich mindestens ein beteiligter Spieler einen Kampf, geht dieser los.
+Der Spieler, auf dessen Feld gezogen wurde, fängt an und spielt eine Handkarte aus. Der Kampf ist identisch mit dem der Monsterkämpfe. Gewonnen hat derjenige, der nach abwechselndem Ausspielen von Karten die Lebenspunkte des Gegners als erster senkt.
+
+Der Gewinner erhält 2 zufällige Karten des Verlierers. Der Verlierer bekommt eine zufällige Karte des Gewinners. Die restlichen Karten wandern auf den Ablagestapel des Besitzers.
+
+Wenn die Interaktion des Spielers mit der Feldkarte/mit den Mitspielern beendet ist, ist ein anderer Spieler (Uhrzeigersinn?) dran.
+
+
+Wenn alle Karten des Spielfelds aufgedeckt sind, beginnt die zweite Ebene und der Endboss tritt dem Spiel bei.
+
+Wir wissen noch nicht wo der Endboss sich befindet, wenn er auftaucht, da wir jetzt keine Mitte mehr haben. 
+
+In der 2. Ebene bleiben die Feldkarten offen liegen. Jeder Spieler zieht beim Betreten des Spielfelds 2 Kampfkarten von dem BLAUEN Stapel/Ebene 2 Stapel, name pending.
+
+
+
