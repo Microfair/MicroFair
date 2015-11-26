@@ -1,40 +1,64 @@
 Wächter von Aevon
 Ziel des Spiels:  
-Übermutige Erkunder stürzen sich in ein Abenteuer der Superlative. Die verlassene Festung Aevon lockt mit Reichtum, Ruhm und den Geheimnissen einer längst verlorenen Zivilisation.  Doch der Hüter der Festung und seine Untertanen lassen keinen lebendig aus den alten Ruinen entwischen. Kannst du den mächtigen Hüter besiegen – alleine oder mithilfe von Freunden – um als Held gefeiert zu werden?
+Übermutige Erkunder stürzen sich in das größte Abenteuer ihres Lebens. Die verlassene Festung Aevon lockt mit Reichtum, Ruhm und den Geheimnissen einer längst verlorenen Zivilisation.  Doch der Hüter der Festung und seine Untertanen lassen keinen lebendig aus den alten Ruinen entwischen. Kannst du den mächtigen Hüter besiegen?
+
+Ziel des Spiels ist es, alle Räume in der Festung Aevon zu erkunden. Das geschieht indem die Spieler alle Karten in den Räumen aufdecken. Ist dies geschehen, so erwacht der mächtige Wächter aus seinem Tiefschlaf. Ein Bosskampf beginnt, in dem jeder Spieler eine Chance hat, das Ungeheuer zu besiegen.
+
 Spieler: 1-4 Spieler
 
+
+
 Vorbereitung:
-Das vierteilige Spielbrett wird so zusammengesteckt, dass die Teile ein großes Zahnrad ergeben. Die 12 Zahnradelemente werden auf jeweils einen der dafür vorgesehenen Stifte aufgesetzt. Die Zahnräder sollen sich miteinander verzahnen, sodass beim Drehen sich jeweils eine Hälfte vom Spielbrett bewegt.
-Die Feldkarten werden gut gemischt. Auf jedes Zahnrad werden jeweils vier Karten platziert. Jeder Spieler sucht sich eine der vier Spielfiguren aus und platziert diese auf den Startfeldern.
 
-Spielverlauf:
-Jeder Spieler zieht 10 Karten des roten Stapels/des erste-Ebene-Stapels (müssen uns noch eine konkrete Bezeichnung dafür ausdenken. Vorschlag: Wir unterteilen sie in Farben). 5 davon sind der persönliche Nachziehstapel eines jeden Spielers, 5 Karten sind Handkarten. Der Rest ist der gemeinsame Nachziehstapel. Jeder Spieler hat am Anfang 15 LP. 
-Die Ebene des Spielfelds ist solange Ebene 1, bis der Endgegner erscheint.
+Das vierteilige Spielbrett wird so zusammengesteckt, dass die Teile ein großes Zahnrad ergeben. Die 7 Zahnradelemente werden auf jeweils einen der dafür vorgesehenen Stifte aufgesetzt. Die Zahnräder sollen sich miteinander verzahnen, sodass beim Drehen sich jeweils drei Zahnräder bewegen. Das mittlere Zahnrad bewegt sich unabhängig von den anderen.
+Jeder Spieler bekommt 3 Chips, die die gleiche Farbe besitzen wie die eigene Spielfigur. Ein W4 (Tetraeder Würfel, mit 4 Seiten) Spielwürfel wird für das Spiel benötigt.
+Die Feldkarten werden gut gemischt. Auf jedes Zahnrad werden jeweils vier Karten platziert. Jeder Spieler sucht sich eine der vier Spielfiguren aus und platziert diese auf den Startfeldern auf dem mittleren Zahnrad.
 
-In der ersten Runde bewegt sich der Spieler, der dran ist, auf das nächste Feld vor ihm. In den folgenden Runden kann jeder Spieler auf jedes beliebige Feld gehen, das an sein momentanes Feld grenzt (auch wenn dieses Feld sich auf einem anderen Zahnrad befindet). Hat sich ein Spieler auf ein verdecktes Feld bewegt, das frei ist, wird die verdeckte Karte umgedreht. Beim Umdrehen einer Karte darf der Spieler 2 Karten von seinem Nachziehstapel ziehen.
-
--Die umgedrehte Karte ist ein Schatz: Der Spieler zieht eine Karte von dem gemeinsamen Nachziehstapel.
-
--Die umgedrehte Karte ist eine Falle: Den Spieler treffen die auf der Karte aufgeführten Effekte.
-
--Die umgedrehte Karte ist ein Gegner: Jedes Monster hat einen LP-Wert(dafür muss noch der offizielle Name ausgedacht werden). Das Ziel des Spielers ist es, mithilfe seiner Handkarten die LP des Monsters auf 0 zu senken. Der Spieler darf jeweils nur eine Karte auf einmal spielen. Diese Karte kann ein Artefakt(Waffe) sein, das Schaden anrichtet oder ein Item, das die HP des Spielers auffüllt, ausspielen. 
-Wenn der Spieler seine Karte ausgespielt hat und die LP des Monsters nicht auf 0 abgesunken ist, ist das Monster dran. Das Monster zieht eine Karte aus dem gemeinsamen Nachziehstapel und spielt diese sofort aus. Das kann sowohl eine Waffe sein und dem Spieler Schaden anrichten, als auch ein Item sein, das die Gesundheit des Monsters auffüllt. Gewonnen hat derjenige, der die LP des Gegners zuerst auf 0 gesenkt hat.
-Wenn der Spieler den Kampf gewonnen hat, darf er sich eine zufällige Karte des Monsters aussuchen und diese auf seine Hand nehmen. Die besiegte Monsterkarte bleibt offen liegen.
-Wenn der Spieler den Kampf verloren hat, muss er die Hälfte seiner Handkarten abwerfen (dieser Schritt war mir ja noch nicht ganz klar und muss besprochen werden)
-
--Wenn auf diesem Feld ein Mitspieler steht: Es wird entschieden, ob ein Kampf erwünscht ist. Wünscht sich mindestens ein beteiligter Spieler einen Kampf, geht dieser los.
-Der Spieler, auf dessen Feld gezogen wurde, fängt an und spielt eine Handkarte aus. Der Kampf ist identisch mit dem der Monsterkämpfe. Gewonnen hat derjenige, der nach abwechselndem Ausspielen von Karten die Lebenspunkte des Gegners als erster senkt.
-
-Der Gewinner erhält 2 zufällige Karten des Verlierers. Der Verlierer bekommt eine zufällige Karte des Gewinners. Die restlichen Karten wandern auf den Ablagestapel des Besitzers.
-
-Wenn die Interaktion des Spielers mit der Feldkarte/mit den Mitspielern beendet ist, ist ein anderer Spieler (Uhrzeigersinn?) dran.
+Jeder Spieler zieht 10 Karten des roten Stapels(müssen uns noch eine konkrete Bezeichnung dafür ausdenken. Vorschlag: Wir unterteilen sie in Farben). 5 zufällige Karten werden auf die Hand genommen. Die anderen 5 Karten sind der "Rucksack". Der Rest des roten Stapels ist der gemeinsame Nachziehstapel. 
 
 
-Wenn alle Karten des Spielfelds aufgedeckt sind, beginnt die zweite Ebene und der Endboss tritt dem Spiel bei.
-
-Wir wissen noch nicht wo der Endboss sich befindet, wenn er auftaucht, da wir jetzt keine Mitte mehr haben. 
-
-In der 2. Ebene bleiben die Feldkarten offen liegen. Jeder Spieler zieht beim Betreten des Spielfelds 2 Kampfkarten von dem BLAUEN Stapel/Ebene 2 Stapel, name pending.
+Der erste Zug:
 
 
+Ein Würfel entscheidet, wer als erstes ziehen darf. Der Spieler, der die höchste Zahl geworfen hat, beginnt. Die Karte, auf der der Spieler steht, wird umgedreht. Je nach Kartentyp beginnen verschiedene Aktionen.
+
+-Die umgedrehte Karte ist eine Falle: Den Spieler treffen die auf der Karte aufgeführten Effekte. Beispiel: Karte abgeben /*BILD VON FALLENKARTE*/
+
+
+-Die umgedrehte Karte ist ein Gegner:
+/*BILD VON MONSTERKARTE*/
+ Jedes Monster hat einen HP-Wert.Das Ziel des Spielers ist es, mithilfe seiner Handkarten die HP des Monsters auf 0 zu senken. Der Spieler darf jeweils nur eine Karte auf einmal spielen. Diese Karte kann ein Artefakt(Waffe) sein, das nur Schaden im Wert des Bedrohungswerts anrichtet  oder ein Kombinationsitem sein, das Schaden anrichtet und die HP des Ausspielenden heilt.
+
+Wenn der Spieler seine Karte ausgespielt hat und die HP des Monsters nicht auf 0 abgesunken ist, ist das Monster dran. Jedes Monster hat HP und einen Bedrohungswert. Das Monster zieht eine Karte aus dem gemeinsamen Nachziehstapel und spielt diese sofort aus. Das kann sowohl eine Waffe sein und dem Spieler Schaden anrichten, als auch ein Kombinationsitem sein, das dazu die Gesundheit des Monsters auffüllt.
+Es gibt Waffen, die einen Würfelwurf erfordern. der Bedrohungswert des Monsters wird mit dem Bedrohungswert der Angriffskarte addiert. Gewonnen hat derjenige, der die HP des Gegners zuerst auf 0 gesenkt hat.
+Wenn der Spieler den Kampf gewonnen hat, darf er sich eine zufällige Karte des Monsters aussuchen und diese auf seine Hand nehmen. Die besiegte Monsterkarte bleibt offen liegen. Der Spieler bekommt einen Edelstein/Pebbel/Kieselstein/Zahnrad/WHATEVER.
+
+Wenn der Spieler den Kampf verloren hat, muss er die Hälfte seiner Handkarten abwerfen. Außerdem muss er auf seine Startposition zurück gehen.
+
+Abgeworfene Karten landen in den Ablagestapel des Besitzers.
+
+Wenn die Interaktion mit dem Feld beendet ist, ist der nächste Spieler nach dem Uhrzeigersinn dran.
+
+
+Weiterer Spielverlauf:
+
+Der weitere Spielverlauf ist identisch mit dem ersten Zug. Die Spieler können jedes beliebige Feld aufsuchen, das an ihr Feld grenzt. Das kann ein Feld sein, das durch einen Gang mit dem aktuellen Raum verbunden ist. Oder das am nächsten liegende Feld auf demselben oder einem anderen Zahnrad. Folgende Aktionen werden hinzugefügt:
+
+
+-Wenn der Spieler auf ein Feld zieht, worauf ein anderer Spieler steht: Ein Player-Vs.-Player-Kampf findet statt. /*EVENTUELL BILD VON ZWEI SPIELERN AUF EINEM FELD, ZUM BEISPIEL FOTO VOM PROTOTYP FELD*/
+
+Der Spieler, auf dessen Feld gezogen wurde, fängt an und spielt eine Handkarte aus. Der Kampf ist identisch mit dem der Monsterkämpfe. Auch hier spielen die Effektwaffen eine große Rolle. Sie können den Spieler wegteleportieren oder größeren Schaden per Zufall einrichten. Gewonnen hat derjenige, der nach abwechselndem Ausspielen von Karten die Lebenspunkte des Gegners als erster auf 0 senkt.
+
+
+Der Gewinner erhält 2 zufällige Karten des Verlierers und einen Chip. Der Verlierer bekommt eine zufällige Karte des Gewinners. Die restlichen Karten wandern auf den Ablagestapel des Besitzers. Wird der Rucksack des Spielers leer, dient der Abladestapel gut gemischt für den Kartennachschub.
+
+Zu jeder Zeit, in jedem beliebigem Zug darf jeder Spieler Drehkarten ausspielen /*BILD VON DREHKARTEN*/. Diese sollen den Spieler näher an sein gewünschtes Feld (Schatz, Spieler, Endgegner) bringen oder die Mitstreiter von ihrem gewünschtem Feld möglichst fernhalten. Monsterkarten können das Feld nicht drehen. 
+
+Wenn ein Raum betreten wird, das bereits offen liegt, muss der Spieler ein weiteres Feld gehen. Maximal können so 2 Felder pro Zug betreten werden.
+
+
+Wenn alle Karten des Spielfelds aufgedeckt sind, beginnt der Kampf mit dem Wächter.
+Das Startfeld des Wächters bestimmt der Wurf eines Würfels. Die Richtung des Wächters entspricht dem der Zahl (siehe mittleres Zahnrad) /*Vorschlag: Schreiben wir auf das mittlere Zahnrad die Zahlen von 1-4 auf, je nachdem wie das Zahnrad gedreht ist, ändert sich auch die Richtung). Der Wächter hat 30 HP. Im Gegensatz zu den Spielern regenerieren sich seine HP nicht nach jedem Kampf. Der Wächter macht seinen Zug nach jedem Zug der Spieler. Jedes Mal wird gewürfelt, um seine Laufrichtung zu bestimmen. Der Wächter hat einen Bedrohungswert von 4.
+
+Findet eine Begegnung zwischen Wächter und Spieler statt, beginnt ein Kampf. Der Spieler darf sein ganzes Deck (Handkarten, Rucksack und Ablagestapel benutzen und darf einmal angreifen. Zusätzlich zu diesem Angriff darf er so oft angreifen, wie die Anzahl der Chips, die er von anderen Spielern gewonnen hat. Hier handelt es sich um ein Rennen. Wer kann den Wächter zuerst besiegen? Derjenige, der die HP des Wächters auf 0 gesenkt hat, bekommt 4(overpowered!) Edelsteine. Der Gewinner des Spiels ist derjenige, der nach dem Wächterkampf die meisten Edelsteine besitzt.
 
